@@ -14,3 +14,4 @@ We can read here [`developers.google/fonts`](https://developers.google.com/fonts
 
 * [jekyll](https://jekyllrb.com/)
 * [About github-pages and jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
+* [Set up your own portfolio website in less than 10 minutes with github pages](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd)
