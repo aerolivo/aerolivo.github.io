@@ -22,8 +22,18 @@ We can read here [`developers.google/fonts`](https://developers.google.com/fonts
 
 Example of pages that I liked 
 
-- [https://robotkang.cc/](https://robotkang.cc/)([source](https://github.com/MengZheK/githubblog))
-- [https://anilwadghule.com/](https://anilwadghule.com/)([source](https://github.com/anildigital/anildigital.github.io))
-- [https://zegoggl.es/](https://zegoggl.es/)([source](http://github.com/henrik/jekyll))
-- []
-- 
+- [https://robotkang.cc/](https://robotkang.cc/) ([source](https://github.com/MengZheK/githubblog))
+- [https://anilwadghule.com/](https://anilwadghule.com/) ([source](https://github.com/anildigital/anildigital.github.io))
+- [https://zegoggl.es/](https://zegoggl.es/) ([source](http://github.com/henrik/jekyll))
+- [https://michaelmonteleone.net/](https://michaelmonteleone.net/) ([source](https://github.com/mmonteleone/michaelmonteleone.net))
+- [https://mihail.co/](https://mihail.co/) ([source](https://github.com/icebreaker/icebreaker.github.com))
+- [https://www.monkeysnatchbanana.com/)](https://www.monkeysnatchbanana.com/) ([source](https://github.com/SeanTAllen/MonkeySnatchBanana.com))
+- [https://dlimiter.net/](https://dlimiter.net/) ([source](https://github.com/dlimiter/dlimiter.net))
+- [https://sparanoid.com/](https://sparanoid.com/) ([source]())
+- [https://redbluemagenta.com/](https://redbluemagenta.com/) ([source](https://github.com/cparedes/redbluemagenta-new))
+- [https://jromeem.github.io/](https://jromeem.github.io/) ([source](https://github.com/jromeem/old.v3.jromeem.github.com))
+- [https://brick.im/](https://brick.im/) ([source](https://github.com/alfredxing/brick))
+- [https://wanglongqi.github.io/](https://wanglongqi.github.io/) ([source](https://github.com/wanglongqi/wanglongqi.github.io))([source]())
+- [http://nielsoeltjen.com/](http://nielsoeltjen.com/) ([source](https://github.com/Elbone/nielsoeltjen))
+- [https://themejekyll.github.io/](https://themejekyll.github.io/) ([]())
+- [https://github.com/heiswayi/thinkspace](https://github.com/heiswayi/thinkspace)
