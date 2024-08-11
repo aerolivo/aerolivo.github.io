@@ -37,3 +37,5 @@ Example of pages that I liked
 - [http://nielsoeltjen.com/](http://nielsoeltjen.com/) ([source](https://github.com/Elbone/nielsoeltjen))
 - [https://themejekyll.github.io/](https://themejekyll.github.io/) ([]())
 - [https://github.com/heiswayi/thinkspace](https://github.com/heiswayi/thinkspace)
+- [https://github.com/patdryburgh/hitchens](https://github.com/patdryburgh/hitchens)
+- 
