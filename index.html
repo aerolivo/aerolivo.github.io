@@ -106,13 +106,13 @@
             <p>&copy; 2024 Andres E. Rentería-Olivo. All Rights Reserved.</p>
         </div>
     </footer>
+    <script>
+        const toggleButton = document.getElementById('dark-mode-toggle');
+        toggleButton.addEventListener('click', () => {
+            document.body.classList.toggle('light-mode');
+        });
+    </script>
 </body>
 
-<script>
-    const toggleButton = document.getElementById('dark-mode-toggle');
-    toggleButton.addEventListener('click', () => {
-        document.body.classList.toggle('light-mode');
-    });
-</script>
 
 </html>
