@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terminal Style Webpage</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="terminal">
+        <div class="terminal-header">
+            <div class="buttons">
+                <span class="button close"></span>
+                <span class="button minimize"></span>
+                <span class="button maximize"></span>
+            </div>
+            <span class="terminal-title">andres.renteria@lhcpheno.ific.uv.es: ~</span>
+        </div>
+        <div class="terminal-body">
+            <p class="command-line">Welcome to my terminal-style webpage!</p>
+            <p class="command-line">This is where your content goes.</p>
+            <p class="command-line">Feel free to add more text or commands here.</p>
+        </div>
+    </div>
+</body>
+</html>

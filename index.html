@@ -3,24 +3,51 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Terminal Style Webpage</title>
+    <title>My Terminal-Themed Webpage</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <div class="terminal">
-        <div class="terminal-header">
-            <div class="buttons">
-                <span class="button close"></span>
-                <span class="button minimize"></span>
-                <span class="button maximize"></span>
+    <header class="terminal-header">
+        <div class="container">
+            <div class="header-content">
+                <span class="user-info">user@website: ~</span>
+                <nav>
+                    <a href="#about">About</a>
+                    <a href="#projects">Projects</a>
+                    <a href="#contact">Contact</a>
+                </nav>
             </div>
-            <span class="terminal-title">andres.renteria@lhcpheno.ific.uv.es: ~</span>
         </div>
-        <div class="terminal-body">
-            <p class="command-line">Welcome to my terminal-style webpage!</p>
-            <p class="command-line">This is where your content goes.</p>
-            <p class="command-line">Feel free to add more text or commands here.</p>
+    </header>
+
+    <main class="terminal-body">
+        <div class="container">
+            <section id="welcome">
+                <h1>Welcome to My Terminal-Themed Webpage</h1>
+                <p>This is a personal webpage styled like a terminal interface.</p>
+            </section>
+
+            <section id="about">
+                <h2>About Me</h2>
+                <p>Here is where you can write about yourself.</p>
+            </section>
+
+            <section id="projects">
+                <h2>Projects</h2>
+                <p>Showcase your projects here.</p>
+            </section>
+
+            <section id="contact">
+                <h2>Contact</h2>
+                <p>Provide contact information or a form here.</p>
+            </section>
         </div>
-    </div>
+    </main>
+
+    <footer class="terminal-footer">
+        <div class="container">
+            <p>&copy; 2024 My Terminal-Themed Webpage. All Rights Reserved.</p>
+        </div>
+    </footer>
 </body>
 </html>
