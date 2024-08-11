@@ -40,4 +40,5 @@ Example of pages that I liked
 - [https://github.com/patdryburgh/hitchens](https://github.com/patdryburgh/hitchens)
 - [https://www.luxacss.com/](https://www.luxacss.com/)
 - [https://asvvvad1.github.io/mono-color/](https://asvvvad1.github.io/mono-color/)
+- [https://terminalcss.xyz/dark/](https://terminalcss.xyz/dark/)
 - 
