@@ -38,4 +38,6 @@ Example of pages that I liked
 - [https://themejekyll.github.io/](https://themejekyll.github.io/) ([]())
 - [https://github.com/heiswayi/thinkspace](https://github.com/heiswayi/thinkspace)
 - [https://github.com/patdryburgh/hitchens](https://github.com/patdryburgh/hitchens)
+- [https://www.luxacss.com/](https://www.luxacss.com/)
+- [https://asvvvad1.github.io/mono-color/](https://asvvvad1.github.io/mono-color/)
 - 
