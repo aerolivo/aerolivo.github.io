@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV: A.E. Rentería-Olivo</title>
+    <link rel="stylesheet" href="styles.css">
+    <!-- Other head content -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <header class="terminal-header">
+        <div class="container">
+            <div class="header-content">
+                <span class="user-info">Andrés E. Rentería-Olivo</span>
+                <nav class="main-nav">
+                    <a href="#about">About</a>
+                    <a href="#research">Research</a>
+                    <a href="#contact">Contact</a>
+                </nav>
+                <nav class="social-nav">
+                    <a href="https://github.com/aerolivo" target="_blank" title="GitHub">
+                        <i class="fab fa-github"></i> GitHub
+                    </a>
+                    <a href="https://inspirehep.net/authors/1949065" target="_blank" title="InspireHEP">
+                        <i class="fas fa-atom"></i> InspireHEP
+                    </a>
+                    <a href="https://www.linkedin.com/in/arenteria-olivo-hep/" target="_blank" title="LinkedIn">
+                        <i class="fab fa-linkedin"></i> LinkedIn
+                    </a>
+                    <a href="https://orcid.org/0000-0002-5924-3512" target="_blank" title="ORCID">
+                        <i class="fab fa-orcid"></i> ORCID
+                    </a>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <main class="terminal-body">
+        <div class="container">
+            <section id="welcome">
+                <h1>Andrés Ernesto Rentería-Olivo</h1>
+                <p>PhD Candidate | Research | Theoretical Particle Physics | Quantum Computing.</p>
+                <p>Instituto de Física Corpuscular, Universitat de Valencia</p>
+                <p>Valencia, Spain</p>
+            </section>
+
+            <section id="about">
+                <h2>About Me</h2>
+                <p>I am a physicist specializing in precision high-energy physics, with a particular focus on 
+                    the theoretical development of Quantum Field Theories, Quantum Algorithms, 
+                    Machine Learning and Data Analysis. 
+                    My research interests span from the development of theoretical techniques for precision particle physics 
+                    to the application of quantum computing in high-energy physics, concretely in addressing complex problems 
+                    related to perturbative Quantum Chromodynamics (QCD), such as multi-loop, multi-leg scattering amplitudes 
+                    and Feynman integrals and the development of quantum algorithms.
+                </p>
+            </section>
+
+            <section id="research">
+                <h2>Research</h2>
+                <ul class="paper-list">
+                    <li>
+                        "Vacuum amplitudes and time-like causal unitary in the loop-tree duality"
+                        <br>
+                        <a href="https://arxiv.org/abs/2404.05492" target="_blank" title="arXiv">
+                            <i class="fas fa-book"></i> arXiv:2404.05492
+                        </a>
+                        |
+                        <a href="https://inspirehep.net/literature/2775043" target="_blank" title="InspireHEP">
+                            <i class="fas fa-atom"></i> InspireHEP
+                        </a>
+                        |
+                        <a href="https://example.com/bibtex" target="_blank" title="BibTeX">
+                            <i class="fas fa-quote-right"></i> BibTeX
+                        </a>
+                    </li>
+                    <li>
+                        "Quantum querying based on multicontrolled Toffoli gates for causal Feynman loop configurations and directed acyclic graphs"
+                        <br>
+                        <a href="https://arxiv.org/abs/2404.03544" target="_blank" title="arXiv">
+                            <i class="fas fa-book"></i> arXiv:2404.03544
+                        </a>
+                        |
+                        <a href="https://inspirehep.net/literature/2774130" target="_blank" title="InspireHEP">
+                            <i class="fas fa-atom"></i> InspireHEP
+                        </a>
+                        |
+                        <a href="https://example.com/bibtex" target="_blank" title="BibTeX">
+                            <i class="fas fa-quote-right"></i> BibTeX
+                        </a>
+                    </li>
+                    <!-- Add more papers as needed -->
+                    <li>
+                        "Variational quantum eigensolver for for causal loop Feynman diagrams and directed acyclic graphs"
+                        <br>
+                        <a href="https://arxiv.org/abs/2210.13240" target="_blank" title="arXiv">
+                            <i class="fas fa-book"></i> arXiv:2210.13240
+                        </a>
+                        |
+                        <a href="https://inspirehep.net/literature/2169710" target="_blank" title="InspireHEP">
+                            <i class="fas fa-atom"></i> InspireHEP
+                        </a>
+                        |
+                        <a href="https://example.com/bibtex" target="_blank" title="BibTeX">
+                            <i class="fas fa-quote-right"></i> BibTeX
+                        </a>
+                    </li>
+                </ul>
+            </section>
+
+            <section id="contact">
+                <h2>Contact</h2>
+                <p>Provide contact information or a form here.</p>
+            </section>
+        </div>
+    </main>
+
+    <footer class="terminal-footer">
+        <div class="container">
+            <p>&copy; 2024 Andres E. Rentería-Olivo. All Rights Reserved.</p>
+        </div>
+    </footer>
+    <script>
+        const toggleButton = document.getElementById('dark-mode-toggle');
+        toggleButton.addEventListener('click', () => {
+            document.body.classList.toggle('light-mode');
+        });
+    </script>
+</body>
+
+
+</html>
