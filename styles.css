@@ -59,7 +59,7 @@ a:hover {
 
 /* Navigation Bar */
 .navbar {
-    background-color: #2C3E50;
+    background-color: #594472;
     padding: 10px;
     text-align: center;
     margin-bottom: 20px;
@@ -73,7 +73,7 @@ a:hover {
 }
 
 .navbar a:hover {
-    background-color: #1A5276;
+    background-color: #5c1a76;
     border-radius: 5px;
 }
 
@@ -166,7 +166,7 @@ footer {
 .icons {
     list-style-type: none;
     padding: 0;
-    text-align: center;
+    text-align: left;
     margin: 20px 0;
 }
 
