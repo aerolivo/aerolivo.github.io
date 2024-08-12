@@ -2,9 +2,9 @@
 body {
     font-family: 'Times New Roman', Times, serif;
     font-size: 16px;
-    line-height: 1.4;
+    line-height: 1.2;
     color: #333;
-    background-color: #f9f9f9;
+    background-color: #ffffff;
     margin: 0;
     padding: 0;
     padding-top: 20px;
@@ -15,7 +15,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Times New Roman', Times, serif;
-    color: #2C3E50;
+    color: #2a1835;
     margin-bottom: 0.8em;
 }
 
