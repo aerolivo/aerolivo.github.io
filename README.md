@@ -41,4 +41,7 @@ Example of pages that I liked
 - [https://www.luxacss.com/](https://www.luxacss.com/)
 - [https://asvvvad1.github.io/mono-color/](https://asvvvad1.github.io/mono-color/)
 - [https://terminalcss.xyz/dark/](https://terminalcss.xyz/dark/)
+
+Some other inpirations from `r/web_design`:  
+- [http://bettermotherfuckingwebsite.com/](http://bettermotherfuckingwebsite.com/)
 - 
