@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Website Title</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Your Website Title</h1>
+        <p>A subtitle or brief description goes here.</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#section1">Section 1</a></li>
+            <li><a href="#section2">Section 2</a></li>
+            <li><a href="#section3">Section 3</a></li>
+            <li><a href="#section4">Section 4</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section id="section1">
+            <h2>Section 1 Title</h2>
+            <p>Your content for section 1 goes here. This could include paragraphs, code snippets, or other elements.</p>
+        </section>
+
+        <section id="section2">
+            <h2>Section 2 Title</h2>
+            <p>Your content for section 2 goes here.</p>
+        </section>
+
+        <section id="section3">
+            <h2>Section 3 Title</h2>
+            <p>Your content for section 3 goes here.</p>
+        </section>
+
+        <section id="section4">
+            <h2>Section 4 Title</h2>
+            <p>Your content for section 4 goes here.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Your Name. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
